@@ -59,4 +59,8 @@ The PIR sensor detects motion and sends a digital signal to Arduino Uno. The Ard
 - IoT-based remote monitoring
 - Password-based deactivation system
 
+  ## Simulation Link
+
+[Tinkercad Simulation] https://www.tinkercad.com/things/8MTetqvGkTp-home-security-alarm-system-
+
 
